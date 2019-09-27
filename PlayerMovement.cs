@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-//VAMOS MESSI CARAJO
+//VAMOS MESSI CARAJO MENTIRA RE PECHO FRIO
 //Y EL DIEGOTE
     public Rigidbody rb;
 
