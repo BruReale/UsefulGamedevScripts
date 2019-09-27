@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
             Time.deltaTime 
             
             + 
-
+//VIERON GAME OF THRONES??!?!?!?
             Input.GetAxis("Horizontal") * 
             transform.right * 
             speed * 
